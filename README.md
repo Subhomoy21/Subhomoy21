@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhomoy Das</h1>
 <h3 align="center">Aspiring Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/174036/screenshots/1433127/180214-manybuy-erkl_rfilm-104.gif">
+<img align="right" alt="Coding" width="400" src="<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhomoy21&label=Profile%20views&color=0e75b6&style=flat" alt="subhomoy21" /> </p>
 
@@ -8,13 +8,11 @@
 
 - 🌱 I’m currently learning **DSA and Development**
 
-- 👯 I’m looking to collaborate on **Next JS Stuffs**
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **dassubhomoy260@gmail.com**
 
-- ⚡ Fun fact **I think I am enough Creative Lol!**
+- ⚡“Clean code always looks like it was written by someone who cares.” — Robert C. Martin!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
